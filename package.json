@@ -37,14 +37,14 @@
     "@nextcloud/browserslist-config": "^3.1.2",
     "@nextcloud/eslint-config": "^9.0.0",
     "@nextcloud/stylelint-config": "^3.2.2",
-    "@nextcloud/vite-config": "^2.5.2",
+    "@nextcloud/vite-config": "^2.5.4",
     "@vue/tsconfig": "^0.9.1",
     "autoprefixer": "^10.5.2",
-    "postcss": "^8.5.15",
+    "postcss": "^8.5.16",
     "tailwindcss": "^3.4.19",
     "typescript": "^6.0.3",
     "vite": "^7.3.6",
-    "vue-tsc": "^3.3.5"
+    "vue-tsc": "^3.3.6"
   },
   "engines": {
     "node": "^24.15.0",
